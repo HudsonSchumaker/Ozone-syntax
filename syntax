@@ -1,0 +1,12 @@
+Ozone³ Project
+O³ programing language syntax.
+
+
+; Hello World
+; author: Hudson Schumaker
+; date  : 2020-07-31
+
+f: main() {
+  @text = "Hello World"
+  print(text)
+}
