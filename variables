@@ -1,0 +1,20 @@
+Variables on O³ programming language
+
+  Syntax: 
+    Identifier  : "v:"
+    Name        : "someName"
+    Assignment  : "="
+    Value       : 365
+  
+  Examples:
+    ; Integer variable
+    v: number = 365 
+    
+    ; String variable
+    v: text = "Hello World!!!" 
+    
+    ; Boolean variable
+    v: isActive = false 
+    
+    ; Float variable
+    v: pi = 3.14f
