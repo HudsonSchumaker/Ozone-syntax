@@ -10,3 +10,7 @@ Functions on O³ programming language
     f: main() {
       ; your code here...
     }
+    
+    f: print(v: text) {
+      ; some code here...
+    }
