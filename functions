@@ -3,7 +3,7 @@ Functions on O³ programming language
   Syntax: 
     Identifier  : "f:"
     Name        : "someName"
-    Parenthesis : "()"
+    Parameters  : "()", (v:)
     Body        : "{}"
   
   Example:
