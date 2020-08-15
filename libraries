@@ -1,0 +1,20 @@
+Built in functions on O³ programming language
+
+Strings.o library
+@include String.o
+
+string camelCase(string)
+  input : "Make this camel case"
+  output: "makeThisCamelCase"
+
+string pascalCase(String)
+  input : "make this pascal case"
+  output: "MakeThisCamelCase"
+
+string snakeCase(String)
+  input : "make this snake case"
+  output: "make_this_snake_case"
+
+string kebabCase(String)
+  input : "make this kebab case"
+  output: "make-this-kebab-case"
