@@ -3,26 +3,9 @@ Built in functions on O³ programming language
 Strings.o library
 @include String.o
 
-string upperCase(string)
-  input : "Make this upper case"
-  output: "MAKE THIS UPPER CASE"
-  
-string lowerCase(string)
-  input : "Make THIS lower case"
-  output: "make this lower case"
+Id  | Name                        | 1st arg | 2sd arg | 3rd arg | return | input                      | output                     |
+----|-----------------------------|---------|---------|---------|--------|----------------------------|----------------------------|
+001 | upperCase                   | string  | .       | .       | string | "Make this upper case"     | "MAKE THIS UPPER CASE"     |      
 
-string camelCase(string)
-  input : "Make this camel case"
-  output: "makeThisCamelCase"
 
-string pascalCase(String)
-  input : "make this pascal case"
-  output: "MakeThisCamelCase"
 
-string snakeCase(String)
-  input : "make this snake case"
-  output: "make_this_snake_case"
-
-string kebabCase(String)
-  input : "make this kebab case"
-  output: "make-this-kebab-case"
