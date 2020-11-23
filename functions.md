@@ -7,10 +7,10 @@
     Body        : "{}"       <br>
     Return      : "r:"       <br>
   
-  Example:
-    f: main() {
-      ; your code here...
-    }
+  Example:                   <br>
+    f: main() {              <br>
+      ; your code here...    <br>
+    }                        <br>
     
     f: print(v: text) {
       ; some code here...
