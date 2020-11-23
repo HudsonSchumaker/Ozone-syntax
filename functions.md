@@ -1,4 +1,4 @@
-Functions on O³ programming language
+# Functions on O³ programming language
 
   Syntax: 
     Identifier  : "f:"
