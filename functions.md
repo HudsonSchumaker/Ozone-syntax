@@ -5,6 +5,7 @@
     Name        : "someName" <br>
     Parameters  : "()", (v:) <br>
     Body        : "{}"       <br>
+    Return      : "r:"       <br>
   
   Example:
     f: main() {
