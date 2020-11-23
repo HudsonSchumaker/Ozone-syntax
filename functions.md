@@ -1,10 +1,10 @@
 # Functions on O³ programming language
 
   Syntax: <br>
-    Identifier  : "f:" <br>
-    Name        : "someName"
-    Parameters  : "()", (v:)
-    Body        : "{}"
+    Identifier  : "f:"       <br>
+    Name        : "someName" <br>
+    Parameters  : "()", (v:) <br>
+    Body        : "{}"       <br>
   
   Example:
     f: main() {
