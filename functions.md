@@ -1,7 +1,7 @@
 # Functions on O³ programming language
 
-  Syntax: 
-    Identifier  : "f:"
+  Syntax: <br>
+    Identifier  : "f:" <br>
     Name        : "someName"
     Parameters  : "()", (v:)
     Body        : "{}"
