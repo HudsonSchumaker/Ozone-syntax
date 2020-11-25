@@ -1,17 +1,17 @@
 # Functions on O³ programming language
 
-  Syntax: <br>
-    Identifier  : "f:"       <br>
-    Name        : "someName" <br>
-    Parameters  : "()", (v:) <br>
-    Body        : "{}"       <br>
-    Return      : "r:"       <br>
+  Syntax: 
+    Identifier  : "f:"      
+    Name        : "someName" 
+    Parameters  : "()", (v:) 
+    Body        : "{}"       
+    Return      : "r:"       
   
-  Example:                   <br>
-   f: main() {               <br>
-     ; your code here...     <br>
-   }                         <br>
+  Example:                   
+   f: main() {               
+     ; your code here...    
+   }                         
     
    f:r; sum(v: num1, v: num2) { 
      r: num1 + num2 <br>
-   }<br>
+   }
