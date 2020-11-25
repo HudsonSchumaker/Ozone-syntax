@@ -8,10 +8,10 @@
     Return      : "r:"       <br>
   
   Example:                   <br>
-    f: main() {              <br>
-      ; your code here...    <br>
-    }                        <br>
+   f: main() {               <br>
+     ; your code here...     <br>
+   }                         <br>
     
-    f: print(v: text) {
-      ; some code here...
-    }
+   f:r; sum(v: num1, v: num2) { <br>     
+      r: num1 + num2 <br>
+   }<br>
