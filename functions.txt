@@ -13,5 +13,5 @@
    }                         
     
    f: sum(v: num1, v: num2) { 
-     r: num1 + num2 <br>
+     r: num1 + num2
    }
