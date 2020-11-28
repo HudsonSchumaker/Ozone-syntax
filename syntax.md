@@ -6,8 +6,6 @@ O³ programing language syntax.
 ; author: Hudson Schumaker<br />
 ; date  : 2020-07-31<br />
 <br />
-@include Strings.o<br />
-<br />
 f: main()&nbsp;{<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v: text = "Hello World!!!"<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(text)<br />
