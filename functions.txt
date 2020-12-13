@@ -3,15 +3,18 @@
   Syntax: 
     Identifier  : "f:"      
     Name        : "someName" 
-    Parameters  : "()", (v:) 
-    Body        : "{}"       
+    Parameters  : "()", (p:) 
+    Body        : "{}" 
+    Variable    : "v:"
     Return      : "r:"       
   
   Example:                   
-   f: main() {               
-     ; your code here...    
+   f: main() {   
+     v: num1 = 10
+     v: s = sum(num1, 10)
+     print(s)
    }                         
     
-   f: sum(v: num1, v: num2) { 
+   f: sum(p: num1, p: num2) { 
      r: num1 + num2
    }
