@@ -15,7 +15,8 @@ Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input    
 007 | reverseCase             | string  | .       | .       | string | "make this reverse case"    | "esac esrever siht ekam" |         
 008 | leftTrim                | string  | .       | .       | string | "    remove left spaces"    | "remove left spaces"     |
 009 | rightTrim               | string  | .       | .       | string | "remove right spaces   "    | "remove right spaces"    |
-010 | trim                    | string  | .       | .       | string | "   remove extra spaces   " | "remove extra spaces"    |   
+010 | trim                    | string  | .       | .       | string | "   remove extra spaces   " | "remove extra spaces"    |
+011 | concat                  | string  | string  |         | string | "Join ", "us today!"        | "Join us today!"         |
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,14 +26,14 @@ Print.o library
 
 Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input                       | output                   |
 ----|-------------------------|---------|---------|---------|--------|-----------------------------|--------------------------|
-011 | print                   | string  | .       | .       | string | "print this string"         | "print this string"      |  
-012 | print                   | integer | .       | .       | string | 2020                        | 2020                     |
-013 | print                   | float   | .       | .       | string | 3.14f                       | 3.14                     |
-014 | print                   | double  | .       | .       | string | 2.71828182845904d           | 2.718281828459045        |
-015 | println                 | string  | .       | .       | string | "print this string"         | "print this string"      |  
-016 | println                 | integer | .       | .       | string | 2020                        | 2020                     |
-017 | println                 | float   | .       | .       | string | 3.14f                       | 3.14                     |
-018 | println                 | double  | .       | .       | string | 2.71828182845904d           | 2.718281828459045        |
+001 | print                   | string  | .       | .       | string | "print this string"         | "print this string"      |  
+002 | print                   | integer | .       | .       | string | 2020                        | 2020                     |
+003 | print                   | float   | .       | .       | string | 3.14f                       | 3.14                     |
+004 | print                   | double  | .       | .       | string | 2.71828182845904d           | 2.718281828459045        |
+005 | println                 | string  | .       | .       | string | "print this string"         | "print this string"      |  
+006 | println                 | integer | .       | .       | string | 2020                        | 2020                     |
+007 | println                 | float   | .       | .       | string | 3.14f                       | 3.14                     |
+008 | println                 | double  | .       | .       | string | 2.71828182845904d           | 2.718281828459045        |
 
 
 
