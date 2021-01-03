@@ -17,6 +17,10 @@ Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input    
 009 | rightTrim               | string  | .       | .       | string | "remove right spaces   "    | "remove right spaces"    |
 010 | trim                    | string  | .       | .       | string | "   remove extra spaces   " | "remove extra spaces"    |
 011 | concat                  | string  | string  |         | string | "Join ", "us today!"        | "Join us today!"         |
+012 | int_to_string           | int     | .       |         | string | 667                         | "667"                    |
+013 | concat                  | string  | string  |         | string | "Join ", "us today!"        | "Join us today!"         |
+014 | concat                  | string  | string  |         | string | "Join ", "us today!"        | "Join us today!"         |
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
