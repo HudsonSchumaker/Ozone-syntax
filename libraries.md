@@ -19,7 +19,7 @@ Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input    
 011 | concat                  | string  | string  |         | string | "Join ", "us today!"        | "Join us today!"         |
 012 | intToString             | int     | .       |         | string | 667                         | "667"                    |
 013 | floatToString           | float   | .       |         | string | 667.677                     | "667.667"                |
-014 | doubleToString          | doubole | .       |         | string | 3.14159265359               | "3.1415"                 |
+014 | doubleToString          | double  | .       |         | string | 3.14159265359               | "3.1415"                 |
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
