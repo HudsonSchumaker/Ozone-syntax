@@ -46,6 +46,6 @@ Geometry.o library
 
 Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input                       | output                   |
 ----|-------------------------|---------|---------|---------|--------|-----------------------------|--------------------------|
-
+001 | areaSquare              | double  | .       |         | double | 2.0                         | 4.0                      |
 
 
