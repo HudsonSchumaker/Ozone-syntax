@@ -48,5 +48,6 @@ Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input    
 ----|-------------------------|---------|---------|---------|--------|-----------------------------|--------------------------|
 001 | areaSquare              | double  | .       | .       | double | 2.0                         | 4.0                      |
 002 | areaRectangle           | double  | double  | .       | double | 2.0, 1.0                    | 3.0                      |
+002 | areaTriangle            | double  | double  | .       | double | 2.0, 1.0                    | 1.5                      |
 
 
