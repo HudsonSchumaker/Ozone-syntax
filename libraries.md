@@ -50,5 +50,6 @@ Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input    
 002 | areaRectangle           | double  | double  | .       | double | 2.0, 1.0                    | 3.0                      |
 003 | areaTriangle            | double  | double  | .       | double | 2.0, 1.0                    | 1.5                      |
 004 | areaTrapezoid           | double  | double  | double  | double | 4.0, 2.0, 2.0               | 6.0                      |
+004 | areaParallelogram       | double  | double  | .       | double | 4.0, 2.0                    | 8.0                      |
 
 
