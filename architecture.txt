@@ -1,7 +1,6 @@
 O3 Ozone Project
 Carla Compiler
 
-
 f: main() {
   print("Hello World!")
 }
