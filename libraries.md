@@ -60,5 +60,6 @@ Converter.o library
 Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input                       | output                   |
 ----|-------------------------|---------|---------|---------|--------|-----------------------------|--------------------------|
 001 | celsiusToFahrenheit     | float   | .       | .       | float  | 25.0                        | 77.0                     |
+002 | fahrenheitToCelsius     | float   | .       | .       | float  | 77.0                        | 25.0                     |
 
 
