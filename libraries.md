@@ -53,3 +53,12 @@ Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input    
 004 | areaParallelogram       | double  | double  | .       | double | 4.0, 2.0                    | 8.0                      |
 
 
+Converter.o library
+
+@include Converter.o
+
+Id  | Name                    | 1st arg | 2sd arg | 3rd arg | return | input                       | output                   |
+----|-------------------------|---------|---------|---------|--------|-----------------------------|--------------------------|
+001 | celsiusToFahrenheit     | float   | .       | .       | float  | 25.0                        | 77.0                     |
+
+
