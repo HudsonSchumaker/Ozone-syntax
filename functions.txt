@@ -6,6 +6,7 @@
     Parameters  : "()", (p:) 
     Body        : "{}" 
     Variable    : "v:"
+    Constant    : "c:"
     Return      : "r:"       
   
   Example:                   
