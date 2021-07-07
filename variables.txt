@@ -2,6 +2,7 @@ Variables on O³ programming language
 
   Syntax: 
     Identifier  : "v:" variable
+    Identifier  : "c:" constant
     Name        : "someName"
     Assignment  : "="
     Value       : 365
