@@ -1,7 +1,7 @@
 Variables on O³ programming language
 
   Syntax: 
-    Identifier  : "v:"
+    Identifier  : "v:" variable
     Name        : "someName"
     Assignment  : "="
     Value       : 365
